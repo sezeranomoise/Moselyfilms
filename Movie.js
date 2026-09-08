@@ -1,13 +1,13 @@
 const movies = [
   {
-    title: "Movie One",
+    title: "my Movie",
     year: 2026,
     genre: "Action",
     poster: "",
     video: ""
   },
   {
-    title: "Movie Two",
+    title: "my movie war",
     year: 2026,
     genre: "Drama",
     poster: "",
